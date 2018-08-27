@@ -1,4 +1,4 @@
-# OpenIGEM
+# About
 
 Under construction.
 
