@@ -9,5 +9,5 @@ available in the "NAICS36 Model" section below.
 
 # NAICS36 Model
 
-+ [Repository](https://github.com/openigem/naics36/)
 + [Documentation](https://openigem.github.io/naics36/)
++ [Code and Data Repository](https://github.com/openigem/naics36/)
